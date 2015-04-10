@@ -2,6 +2,14 @@ body {
   background: green;
 }
 
-.favorites-list {
-
+img {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  border-style: inset;
+  border-width: 37px;
+  border-radius: 20px;
+  border-color: white;
+  transform: translate(-50%, -50%);
+  background-color: coral;
 }
