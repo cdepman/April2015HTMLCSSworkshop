@@ -1,0 +1,23 @@
+/* 1. Rank the following from least to most specific: */
+
+#main-photo{}
+
+.important{}
+
+h2.important{}
+
+h1{}
+
+/* 2. What color will the h3 be? */
+
+h3  {
+  color: red;
+}
+
+h3 {
+  color: blue;
+}
+
+h2 { 
+  color: green;
+}
