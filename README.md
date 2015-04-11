@@ -1,4 +1,11 @@
 # April 2015 Moringa School HTML/CSS Workshop Official Repository
+
+Link to slides: 
+[Workshop Intro](http://slides.com/moringaschool/welcome-8)
+[HTML Intro](http://slides.com/moringaschool/intro-to-html)
+[HTML Tags](http://slides.com/moringaschool/html-elements)
+[CSS Fundamentals](http://slides.com/moringaschool/css-fun-damentals)
+
 ### What's in this repo?
 
 You will find a list of all the materials we will be working with during the course of the workshop and some extras.
